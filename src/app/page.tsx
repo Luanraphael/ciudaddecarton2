@@ -8,7 +8,7 @@ const IMG = "/assets";
 const CURRENCY = "US$";
 const PRICE = "10";
 const OLD_PRICE: string | null = null;
-const CHECKOUT = "https://pay.hotmart.com/R108359573H?checkoutMode=10";
+const CHECKOUT = "https://pay.hotmart.com/W108364417O?checkoutMode=10";
 const display = "font-display";
 
 /** "97,00" e "37,00" → 62 */
